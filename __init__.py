@@ -2,6 +2,7 @@ from .KTk import *
 from .KLabel import *
 from .KButton import *
 from .KSound import *
+from .KFrame import *
 
 
 

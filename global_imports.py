@@ -9,7 +9,7 @@ K_MODE_ITEM_LIST = []
 
 
 mode = "dark"
-debug_mode = False
+debug_mode = True
 
 def debug(text):
     if debug_mode:
